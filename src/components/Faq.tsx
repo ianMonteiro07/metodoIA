@@ -6,7 +6,7 @@ export default function Faq() {
   const [openIndex, setOpenIndex] = useState<number | null>(null);
 
   const faqs = [
-    { p: "O Método Financeiro IA é para quem ganha pouco?", r: "Sim. O método foi pensado para ajudar qualquer pessoa a organizar melhor o dinheiro, independentemente da renda." },
+    { p: "O Método Financeiro IA é para quem ganha pouco?", r: " O método foi pensado para ajudar qualquer pessoa a organizar melhor o dinheiro, independentemente da renda." },
     { p: "Preciso entender de Inteligência Artificial?", r: "Não. O método ensina de forma prática como utilizar a IA como ferramenta de organização financeira." },
     { p: "O assistente financeiro funciona 24 horas?", r: "Sim. A proposta é que você possa utilizar o assistente sempre que precisar para registrar e acompanhar suas informações financeiras." },
     { p: "Preciso saber mexer com planilhas?", r: "Não. A proposta é justamente tornar a organização mais simples e prática." },
